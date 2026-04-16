@@ -198,7 +198,7 @@ if selected =="Contact":
     # Documantation: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS
     contact_form = (
         """
-         <form action="https://formsubmit.co/manyimoslimkingz@email.com" method="POST">
+         <form action="https://formsubmit.co/andbymakururuburialsociety@email.com" method="POST">
               <input type="hidden" name="_captcha" value="false" >
               <input type="text" name="name" placeholder="Your name" required>
               <input type="text" name="age" placeholder="Your age" required>
@@ -227,7 +227,8 @@ if selected =="Paymant":
      st.write("---")
      
     
-     st.title(f"ECOCASH")
-     st.write("*151*2*2*062095*Amount #")
+     st.title(f"ECOCASH ")
+     st.write("marchant number")
+     st.write("062095")
      
     
