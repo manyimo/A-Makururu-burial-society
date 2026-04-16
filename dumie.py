@@ -70,15 +70,14 @@ if selected == "Home":
         when death comes unexpectedly it leaves everyone in pain that's when you need a shoulder to cry on and someone to help you on your next step from the death of our loved one until their final memorial we guide the family through the process assuring that tier loved one is remembered the way they want
         """
 )
-    with right_column:
+    
      
-     lottie_coding = load_lottieurl("https://lottie.host/52f878e6-f3c2-462a-84fc-09682a9a55a9/ToskniWRux.json")
-    st.write(
+     
+     st.write(
             """ 
         "When loss strikes, let our burial society be your family's support. We understand the pain, we share the tears, and together we bring dignity to our loved ones. Join us in building a community of care and compassion together as JOHANNE THE FIFTH OF AFRICA INTERNATIONAL CHURCH as our Philanthropist  Arch Bishop Dr Andby Makururu says' lets' bury each other with dignity."
 """)
-    with right_column:
-      st_lottie( lottie_coding, height=None, key=None,)
+    
       
 
     st.title("MISSION, VISION AND VALUES")
